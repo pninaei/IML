@@ -1,0 +1,9 @@
+Packages:
+typing
+linear_regression
+numpy
+matplotlib.pyplot
+seaborn
+pandas
+sklearn.model_selection
+polynomial_fitting
