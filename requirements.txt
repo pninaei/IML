@@ -1,6 +1,0 @@
-pandas
-plotly
-sklearn.model_selection
-matplotlib
-numpy
-typing
